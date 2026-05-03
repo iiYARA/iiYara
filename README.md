@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Yara Mohammad 👋
 
-<!--
-**iiYARA/iiYara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Effat University, focused on Artificial Intelligence, programming, and building practical projects.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working on projects that combine problem-solving, software development, and data-driven thinking. My academic work includes machine learning, web development, data structures, and system design.
+
+## Featured Projects
+
+- Health Prediction under Distribution Shift
+- Fidak Blood Donation Management System
+- JAS Hospital Management System
+- ATM Banking System
+
+## Skills
+
+Python, Java, C++, PHP, MySQL, HTML, CSS, JavaScript, Git, GitHub
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/yara-mohammad-a09996334/
+- GitHub: https://github.com/iiYARA
+- Email: YaraMohammadSA@gmail.com
