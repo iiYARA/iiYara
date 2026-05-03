@@ -4,7 +4,7 @@ Computer Science student at Effat University, focused on Artificial Intelligence
 
 ## About Me
 
-I enjoy working on projects that combine problem-solving, software development, and data-driven thinking. My academic work includes machine learning, web development, data structures, and system design.
+I enjoy working on projects that combine problem-solving, software development, and data-driven thinking. My academic work includes machine learning, web development, data structures, and more.
 
 ## Featured Projects
 
