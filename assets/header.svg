@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Yara Mohammad</title><desc id="desc">Curiosity into code. Ideas into projects. Software, AI and data.</desc>
+<rect width="1200" height="340" rx="24" fill="#191721"/>
+<rect x="24" y="24" width="1152" height="292" rx="16" fill="none" stroke="#403746"/>
+<circle cx="64" cy="60" r="6" fill="#e9adc4"/><circle cx="86" cy="60" r="6" fill="#bcaee3"/><circle cx="108" cy="60" r="6" fill="#a9c6b4"/>
+<text x="62" y="118" font-family="Arial,sans-serif" font-size="15" letter-spacing="4" fill="#c8b2ca">HELLO, WORLD. I'M</text>
+<text x="58" y="186" font-family="Arial,sans-serif" font-weight="700" font-size="59" fill="#fff4f8">Yara Mohammad</text>
+<text x="62" y="232" font-family="Arial,sans-serif" font-size="23" fill="#d6c8d6">Curiosity into code. Ideas into projects.</text>
+<text x="62" y="282" font-family="Arial,sans-serif" font-size="14" letter-spacing="3" fill="#e9adc4">SOFTWARE / AI / DATA</text>
+<rect x="887" y="87" width="215" height="169" rx="18" fill="#292431" stroke="#65516c"/>
+<path d="M958 131 L927 169 L958 207 M1031 131 L1062 169 L1031 207 M1006 122 L982 217" stroke="#e9adc4" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1114 64 v24 M1102 76 h24 M851 247 v18 M842 256 h18" stroke="#bcaee3" stroke-width="3"/>
+</svg>
+
